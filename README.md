@@ -1,6 +1,6 @@
 # OCDyssey website
 
-This is a colorful, responsive one-page fundraising website for OCDyssey.
+
 
 ## Included files
 - `index.html` - main website page
